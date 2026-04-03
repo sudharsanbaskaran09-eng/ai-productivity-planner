@@ -1,10 +1,5 @@
 # AI Daily Productivity Planner
 
-## 🏗 Architecture
-
-![Architecture](architecture image.png)
-
-
 ## 📌 Overview
 This is an AI-powered productivity planner built using Amazon PartyRock.
 
