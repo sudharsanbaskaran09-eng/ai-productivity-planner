@@ -36,7 +36,7 @@ AI generates:
 ---
 
 ## 🌍 Live Demo
-[Paste your PartyRock link here]
+https://partyrock.aws/u/sudharsan01/EJwqUxRYO/sudharsan01
 
 ---
 
