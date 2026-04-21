@@ -7,13 +7,3 @@ User provides:
 
 ---
 
-## 🚀 Learning Outcomes
-- Built real AI application
-- Learned prompt engineering
-- Designed structured AI outputs
-
----
-
-## 👤 Author
-Sudharsan B
-
