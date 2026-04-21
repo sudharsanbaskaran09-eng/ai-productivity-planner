@@ -4,22 +4,6 @@ User provides:
 - Main goal
 - Energy level
 
-AI generates:
-- Structured schedule
-- Motivation
-- Actionable tips
-
----
-
-## 🛠 Tech Stack
-- Amazon PartyRock
-- Amazon Bedrock
-- Prompt Engineering
-
----
-
-## 🌍 Live Demo
-https://partyrock.aws/u/sudharsan01/EJwqUxRYO/sudharsan01
 
 ---
 
