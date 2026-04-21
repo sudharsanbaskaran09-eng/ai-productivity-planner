@@ -7,14 +7,6 @@ The app generates a personalized daily schedule based on user inputs such as ava
 
 ---
 
-## ⚙️ Features
-- 📅 Daily schedule generation
-- 💬 Motivational messages
-- ⚡ Productivity tips
-- 🎯 Goal-based planning
-
----
-
 ## 🧠 How It Works
 User provides:
 - Available hours
