@@ -1,17 +1,5 @@
 
-- 🎯 Goal-based planning
 
----
-
-## 🧠 How It Works
-User provides:
-- Available hours
-- Main goal
-- Energy level
-
-AI generates:
-- Structured schedule
-- Motivation
 - Actionable tips
 
 ---
