@@ -32,3 +32,20 @@ AI generates:
 - Amazon PartyRock
 - Amazon Bedrock
 - Prompt Engineering
+
+---
+
+## 🌍 Live Demo
+https://partyrock.aws/u/sudharsan01/EJwqUxRYO/sudharsan01
+
+---
+
+## 🚀 Learning Outcomes
+- Built real AI application
+- Learned prompt engineering
+- Designed structured AI outputs
+
+---
+
+## 👤 Author
+Sudharsan 
