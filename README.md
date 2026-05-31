@@ -21,13 +21,6 @@ AI generates:
 
 ---
 
-## 🛠 Tech Stack
-- Amazon PartyRock
-- Amazon Bedrock
-- Prompt Engineering
-
----
-
 ## 🌍 Live Demo
 https://partyrock.aws/u/sudharsan01/EJwqUxRYO/sudharsan01
 
