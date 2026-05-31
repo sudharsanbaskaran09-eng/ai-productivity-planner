@@ -15,16 +15,7 @@ The app generates a personalized daily schedule based on user inputs such as ava
 
 ## 🛠 Tech Stack
 - Amazon PartyRock
-- Amazon Bedrock
-- Prompt Engineering
-
----
-
-## 🌍 Live Demo
-https://partyrock.aws/u/sudharsan01/EJwqUxRYO/sudharsan01
-
----
-
+-
 ## 🚀 Learning Outcomes
 - Built real AI application
 - Learned prompt engineering
