@@ -1,7 +1,4 @@
 
-gnjngvjvjmjmj vmbb jbnjnbjgmbmbm
-
-gnjngvjvjmjmj vmbb jbnjnbjgmbmbm
 
 jvjmjmj vmbb jbnjnbjgmbmbm
 
