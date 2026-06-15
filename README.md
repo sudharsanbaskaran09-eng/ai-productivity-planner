@@ -3,8 +3,7 @@ gnjngvjvjmjmj vmbb jbnjnbjgmbmbm
 
 gnjngvjvjmjmj vmbb jbnjnbjgmbmbm
 
-gnj
-gnjngvjvjmjmj vmbb jbnjnbjgmbmbm
+jvjmjmj vmbb jbnjnbjgmbmbm
 
 gnjngvjvjmjmj vmbb jbnjnbjgmbmbm
 
